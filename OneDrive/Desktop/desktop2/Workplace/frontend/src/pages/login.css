@@ -1,0 +1,23 @@
+.button-login{
+ 
+    margin-top: 30px !important;
+    border-radius: 30px !important;
+    background-color: #de9a25 !important;
+                    
+      
+    }
+    
+    .button-icon-text{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+    }
+
+
+    .input{
+      border-radius: 30px !important;
+      border: 1px solid #e5e5e5 !important;
+    }
+    
+    
